@@ -18,6 +18,21 @@
       ?>
 </nav>
   <body>
+    <h2>14-7-16</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3><ul>
+            <li>Working on converting the site to be a mix of php and html</li> <br>
+            <li>Working on making the site responsive</li>
+            <li>Changed file extenssions to .php</li> <br>
+            <li>Created custom link colors via css</li> <br>
+            <li>Created custom reusable menu via template file </li> <br>
+            <li>Removed line from page title</li> <br>
+            </ul></h3>
+        </td>
+      </tr>
+    </table>
     <h2>12/7-16</h2>
     <table style="border: 2px solid white">
       <tr>
