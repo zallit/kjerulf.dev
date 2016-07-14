@@ -6,20 +6,21 @@
   <title>Zallit´s testing site</title> <!-- The page title showing in the browser window -->
   </head>
 
-  <u><h1> Welcome to my testing site code.zallit.dk</h1></u> <!-- The headline for the index page -->
-  <hr> <!-- Horizontal Reference (Horizontal line across the page) -->
-    <nav> <!-- My very simple navigation menu -->
+  <h1> Welcome to my testing site code.zallit.dk</h1> <!-- The headline for the index page -->
 
-<ul> <!-- Unordered list so I can manually decied the order -->
-  <li><a href="changelog.htm">Changelog</a></li>
-  <li><a href="test-page-1.htm">Test page 1 (Responsive menu)</a></li> <!--a test page with code from the Internet -->
-  <li><a href="test-page-2.php">Test page 2 (Homemade menu template)</a></li>
-  <li><a href="test-page-3.htm">Test page 3</a></li>
-   <!-- How to create a another menu item <li><a href="pagename.htm">Page title</a></li> -->
-</ul>
-</nav> <!-- End of simple navigation menu -->
+<nav>
+      <?php
+        $TITLE = "Test side 3";
+        ob_start();
+      ?>
 
-<hr>
+      <?php
+
+        $CONTENT = ob_get_clean();
+        include "template.html"
+      ?>
+</nav>
+
 <body> <!-- The body text of the page and me testing verious things -->
   <h2>Please note that this is where I test my code so dont expect anything to work at all !! </h2>
   <br> <!-- Break Line (new line) -->

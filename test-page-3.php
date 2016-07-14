@@ -1,7 +1,7 @@
 <link href="style.css" rel="stylesheet" type="text/css">
 <meta charset="utf-8">
 <?php
-  $TITLE = "My Home Page";
+  $TITLE = "Test side 3";
   ob_start();
 ?>
 

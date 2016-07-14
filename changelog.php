@@ -2,17 +2,21 @@
   <link href="style.css" rel="stylesheet" type="text/css">
   <meta charset="utf-8">
 <title>Changelog</title>
+<h1>Changelog</h1>
 </head>
-<u><h1>Changelog</h1> </u>
-<hr>
-  <ul>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="test-page-1.htm">Test page 1 (Responsive menu)</a></li>
-  <li><a href="test-page-2.htm">Test page 2</a></li>
-  <li><a href="test-page-3.htm">Test page 3</a></li>
-</ul>
-  <hr>
-  </nav>
+
+<nav>
+      <?php
+        $TITLE = "Test side 3";
+        ob_start();
+      ?>
+
+      <?php
+
+        $CONTENT = ob_get_clean();
+        include "template.html"
+      ?>
+</nav>
   <body>
     <h2>12/7-16</h2>
     <table style="border: 2px solid white">
