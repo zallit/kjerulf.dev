@@ -10,7 +10,7 @@
 
 <nav>
       <?php
-        $TITLE = "Test side 3";
+        $TITLE = "Code.zallit.dk index";
         ob_start();
       ?>
 

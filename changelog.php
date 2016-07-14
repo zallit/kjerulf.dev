@@ -2,12 +2,12 @@
   <link href="style.css" rel="stylesheet" type="text/css">
   <meta charset="utf-8">
 <title>Changelog</title>
-<h1>Changelog</h1>
-</head>
 
+</head>
+<h1>Changelog</h1>
 <nav>
       <?php
-        $TITLE = "Test side 3";
+        $TITLE = "Changelog";
         ob_start();
       ?>
 
@@ -29,6 +29,7 @@
             <li>Created custom link colors via css</li> <br>
             <li>Created custom reusable menu via template file </li> <br>
             <li>Removed line from page title</li> <br>
+            <li>Rewrote the menu</li><br>
             </ul></h3>
         </td>
       </tr>
