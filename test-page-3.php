@@ -1,13 +1,27 @@
-<link href="style.css" rel="stylesheet" type="text/css">
-<meta charset="utf-8">
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <meta charset="utf-8">
+<title>Test page 3</title>
+
+</head>
 <h1>Test page 3</h1>
-<?php
-  $TITLE = "Test side 3";
-  ob_start();
-?>
+<nav>
+      <?php
+        $TITLE = "test page 3";
+        ob_start();
+      ?>
 
-<?php
+      <?php
 
-  $CONTENT = ob_get_clean();
-  include "template.html"
-?>
+        $CONTENT = ob_get_clean();
+        include "template.html"
+      ?>
+</nav>
+
+<body>
+
+
+</body>
+</html>

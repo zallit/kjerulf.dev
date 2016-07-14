@@ -1,8 +1,7 @@
-<link href="style.css" rel="stylesheet" type="text/css">
-<h1>Test page 1 Responsive menu</h1>
 <!DOCTYPE html>
 <html>
 <head>
+<link href="style.css" rel="stylesheet" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {margin: 0;}
@@ -37,6 +36,7 @@ ul.topnav li.right {float: right;}
 }
 </style>
 </head>
+<h1>Test page 1 Responsive menu</h1>
 <body>
 <ul class="topnav">
   <li><a class="active" href="index.html">Home</a></li>

@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
   <link href="style.css" rel="stylesheet" type="text/css">
   <meta charset="utf-8">
@@ -30,6 +32,7 @@
             <li>Created custom reusable menu via template file </li> <br>
             <li>Removed line from page title</li> <br>
             <li>Rewrote the menu</li><br>
+            <li>Fixed super annoying page title bug</li>
             </ul></h3>
         </td>
       </tr>
@@ -95,3 +98,4 @@
   </table>
   </h3>
 </body>
+</  html>
