@@ -1,21 +1,47 @@
+<link href="style.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html>
+<html>
 <head>
-  <title><?php echo $TITLE; ?></title>
-  <div id="header">
-  <hr>
-  </div>
-  <div id="navigation">
-      <ul>
-      <li><p><a href="index.php">Home</a></p></li>
-      <li><p><a href="changelog.php">Changelog</a></p></li>
-      <li><p><a href="test-page-1.php">Test page 1 (responsive menu)</a></p></li>
-      <li><p><a href="test-page-2.php">Test page 2 (php)</a></p></li>
-      <li><p><a href="test-page-3.htm">Test page 3</a></p></li>
-      <li><p><a href="test4">test 4</a></p></li>
-      </ul>
-      <hr>
-  </div>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+
+
+body {margin: 0;}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: orange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #4CAF50;}
+
+ul.topnav li a.active {background-color: #4CAF50;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px){
+    ul.topnav li.right,
+    ul.topnav li {float: none;}
+}
+</style>
 </head>
-
 <body>
-
-</body>
+<ul class="topnav">
+  <li><a href="index.php">Home</a></li>
+  <li><a href="changelog.php"> Changelog</a></li>
+  <li><a href="test-page-2.php">Test page 2</a></li>
+  <li><a href="test-page-3.php">Test page 3</a></li>
+</ul>
