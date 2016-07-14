@@ -24,7 +24,7 @@
         <td>
           <h3><ul>
             <li>Working on converting the site to be a mix of php and html</li> <br>
-            <li>Working on making the site responsive</li>
+            <li>Working on making the site responsive</li> <br>
             <li>Changed file extenssions to .php</li> <br>
             <li>Created custom link colors via css</li> <br>
             <li>Created custom reusable menu via template file </li> <br>
