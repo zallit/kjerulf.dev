@@ -1,4 +1,5 @@
 /*body {background-image: url("img/background.png")}*/
+
 BODY { COLOR: #FFFFFF }
 BODY {background-color:#282c34;}
 ul {
@@ -21,10 +22,22 @@ ul {
         text-decoration: none;
     }
 
-    li a:hover:not(.active) {
-        background-color: #111;
-    }
+    /* unvisited link */
+  a:link {
+      color: #d9ff19;
+  }
 
-    .active {
-        background-color: #4CAF50;
-    }
+  /* visited link */
+  a:visited {
+      color: #ffb000;
+  }
+
+  /* mouse over link */
+  a:hover {
+      color: ##d9ff19;
+  }
+
+  /* selected link */
+  a:active {
+      color: #ffffff;
+}
