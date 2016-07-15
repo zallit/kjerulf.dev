@@ -6,20 +6,21 @@
 <title>Changelog</title>
 
 </head>
-<h1>Changelog</h1>
-<nav>
-      <?php
-        $TITLE = "Changelog";
-        ob_start();
-      ?>
-
-      <?php
-
-        $CONTENT = ob_get_clean();
-        include "template.html"
-      ?>
-</nav>
   <body>
+    <h1>Changelog</h1>
+    <nav>
+          <?php
+            $TITLE = "Changelog";
+            ob_start();
+          ?>
+
+          <?php
+
+            $CONTENT = ob_get_clean();
+            include "template.html";            
+          ?>
+    </nav>
+
     <h2>14-7-16</h2>
     <table style="border: 2px solid white">
       <tr>
@@ -37,6 +38,7 @@
         </td>
       </tr>
     </table>
+
     <h2>12/7-16</h2>
     <table style="border: 2px solid white">
       <tr>
@@ -98,4 +100,4 @@
   </table>
   </h3>
 </body>
-</  html>
+</html>
