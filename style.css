@@ -1,5 +1,8 @@
-BODY { COLOR: #FFFFFF }
-BODY {background-color:#282c34;}
+BODY { COLOR: #FFFFFF;
+background-color:#282c34;
+margin-left:2px;
+padding-left:10px;}
+
 ul {
     list-style-type: none;
     margin: 0;
