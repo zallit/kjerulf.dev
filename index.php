@@ -33,6 +33,6 @@ This content will be surrounded by a 1 pixel wide white solid line
 <h3 style="color:royalblue;">This is a royalblue heading</h3>
 <h3 style="color:blue;">This is a blue heading</h3>
 <img style="border:1px solid white;" src="img/andreas-mic.png" alt="Andreas Mic Pic" height="20%" width="20%" />
-test
+testing atom on mac
 </body>  <!-- End of the page -->
 </html>
