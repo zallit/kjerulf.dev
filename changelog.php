@@ -27,9 +27,9 @@
       <tr>
         <td>
           <h3><ul>
-            <li>Testing "to top of page" link</li>
-            <li>Fixing some spelling mistakes</li>
-            <li>Cleaning the code with help from <a href="www.asselberghs.dk">Nick</a></li>
+            <li>Testing "to top of page" link</li><br>
+            <li>Fixing some spelling mistakes</li><br>
+            <li>Cleaning the code with help from style <a style="display:inline; text-align:left; padding:0; text-decoration:underline;" href="http://www.asselberghs.dk" target="_blank">Nick</a></li><br>
           </ul></h3>
         </td>
       </tr>
