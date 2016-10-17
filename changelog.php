@@ -7,7 +7,7 @@
 
 </head>
   <body>
-    <h1>Changelog</h1>
+    <h1 id="top">Changelog</h1>
     <nav>
           <?php
             $TITLE = "Changelog";
@@ -21,6 +21,20 @@
           ?>
     </nav>
 
+
+    <h2>17-10-16</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3><ul>
+            <li>Testing "to top of page" link</li>
+            <li>Fixing some spelling mistakes</li>
+            <li>Cleaning the code with help from <a href="www.asselberghs.dk">Nick</a></li>
+          </ul></h3>
+        </td>
+      </tr>
+    </table>
+
     <h2>14-7-16</h2>
     <table style="border: 2px solid white">
       <tr>
@@ -29,7 +43,7 @@
             <li>Working on converting the site to be a mix of php and html</li> <br>
             <li>Working on making the site responsive</li> <br>
             <li>Changed file extenssions to .php</li> <br>
-            <li>Created custom link colors via css</li> <br>
+            <li>Created custom link colors via CSS</li> <br>
             <li>Created custom reusable menu via template file </li> <br>
             <li>Removed line from page title</li> <br>
             <li>Rewrote the menu</li><br>
@@ -99,5 +113,7 @@
   </tr>
   </table>
   </h3>
+<br>
+<a href="#top">link to page top</a>
 </body>
 </html>
