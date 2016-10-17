@@ -32,7 +32,20 @@ This content will be surrounded by a 1 pixel wide white solid line
 <br>
 <h3 style="color:royalblue;">This is a royalblue heading</h3>
 <h3 style="color:blue;">This is a blue heading</h3>
-<img style="border:1px solid white;" src="img/andreas-mic.png" alt="Andreas Mic Pic" height="20%" width="20%" />
+<img style="border:1px solid white;" src="img/andreas-mic.png" alt="Andreas Mic Pic" height="20%" width="20%" /><br>
 <span style="color:red;">This is a red span test </span>
+
+<h2>Form test</h2>
+<br>
+<?php echo '<form action="'.$_SERVER['PHP_SELF'].'" method="get">'; ?>
+  <input type="text" name="name" value="Name"> <br>
+  <textarea name="comment" rows="8" cols="40">Comment</textarea><br>
+  <input type="submit" name="submit" value="Submit">
+</form>
+Output of comment
+<?php
+echo "Name: ".$_GET['name']."<br><br>";
+echo "Comment: ".$_GET['comment'];
+?>
 </body>  <!-- End of the page -->
 </html>
