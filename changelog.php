@@ -17,7 +17,7 @@
           <?php
 
             $CONTENT = ob_get_clean();
-            include "template.html";            
+            include "template.html";
           ?>
     </nav>
 
@@ -61,8 +61,8 @@
         <li>Created CSS navigation menu </li> <br>
         <li>Fixed changelog code error after css menu was created </li> <br>
         <li>Added style CSS to test pages</li><br>
-        <li>Removed menu button</li><br>
-        <li>Fixed menu spelling</li><br>
+        <li>Removed menu button </li><br>
+        <li>Fixed menu spelling </li><br>
         <li>Testing reponsive menu on "Test page 1" </li>
   </ul>
 </td>
@@ -74,10 +74,10 @@
 <tr>
 <td>
   <h3> <ul>
-        <li>Added CSS to the index and changelog</li>  <br>
-        <li>Added a background image</li> <br>
-        <li>Changed default text color to white</li> <br>
-        <li>Fixed som text border colors</li><br>
+        <li>Added CSS to the index and changelog </li>  <br>
+        <li>Added a background image </li> <br>
+        <li>Changed default text color to white </li> <br>
+        <li>Fixed som text border colors </li><br>
   </ul>
 </td>
 </tr>
@@ -91,9 +91,9 @@
           <li>Added a border arround my picture </li> <br>
           <li>Created the changelog </li> <br>
           <li>Added underline in changelog</li> <br>
-          <li>Code cleaning with Nick</li> <br>
-          <li>Forgetting to write in the changelog ;)</li> <br>
-          <li>added menu on changelog page</li> <br>
+          <li>Code cleaning with Nick </li> <br>
+          <li>Forgetting to write in the changelog ;) </li> <br>
+          <li>Added menu on changelog page </li> <br>
     </ul>
   </td>
   </tr>
