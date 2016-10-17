@@ -107,13 +107,13 @@
           <li>Added underline in changelog</li> <br>
           <li>Code cleaning with Nick </li> <br>
           <li>Forgetting to write in the changelog ;) </li> <br>
-          <li>Added menu on changelog page </li> <br>
+          <li>Added menu style on changelog page </li> <br>
     </ul>
   </td>
   </tr>
   </table>
   </h3>
 <br>
-<a href="#top">link to page top</a>
+<a href="#top">To page top</a>
 </body>
 </html>
