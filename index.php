@@ -48,5 +48,7 @@ Output of comment
 echo "Name: ".$_GET['name']."<br><br>";
 echo "Comment: ".$_GET['comment'];
 ?>
+
+2017 test
 </body>  <!-- End of the page -->
 </html>
