@@ -48,11 +48,7 @@ Output of comment
 echo "Name: ".$_GET['name']."<br><br>";
 echo "Comment: ".$_GET['comment'];
 ?>
-<<<<<<< HEAD
-Test git
-=======
 
 2017 test
->>>>>>> 5f629709c8f0dc800791dd6017ccfd2a77f30075
 </body>  <!-- End of the page -->
 </html>
