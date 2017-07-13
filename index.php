@@ -20,7 +20,7 @@
         include "template.html";
       ?>
   </nav>
-  <h2>Please note that this is where I test my code so dont expect anything to work at all !! </h2>
+  <h2>Please note that this is where I test my code so dont expect anything to work at all !!! </h2>
   <br> <!-- Break Line (new line) -->
   <table style="border: 1px solid white">
   <tr>
@@ -30,7 +30,7 @@ This content will be surrounded by a 1 pixel wide white solid line.
   </tr>
   </table>
 <br>
-test
+
 <h3 style="color:royalblue;">This is a royalblue heading</h3>
 <h3 style="color:blue;">This is a blue heading</h3>
 <img style="border:1px solid white;" src="img/andreas-mic.png" alt="Andreas Mic Pic" height="20%" width="20%" /><br>
@@ -43,7 +43,7 @@ test
   <textarea name="comment" rows="8" cols="40">Comment</textarea><br>
   <input type="submit" name="submit" value="Submit">
 </form>
-Output of comment.
+Output of comment. 
 <?php
 echo "Name: ".$_GET['name']."<br><br>";
 echo "Comment: ".$_GET['comment'];
