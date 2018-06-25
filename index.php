@@ -43,7 +43,7 @@ This content will be surrounded by a 1 pixel wide white solid line.
   <textarea name="comment" rows="8" cols="40">Comment</textarea><br>
   <input type="submit" name="submit" value="Submit">
 </form>
-Output of comment. 
+Output of comment:
 <?php
 echo "Name: ".$_GET['name']."<br><br>";
 echo "Comment: ".$_GET['comment'];
