@@ -6,7 +6,7 @@
   <title>Zallit´s testing site</title> <!-- The page title showing in the browser window -->
   </head>
 <body> <!-- The body text of the page and me testing verious things -->
-  <h1> Welcome to my testing site code.zallit.dk</h1> <!-- The headline for the index page -->
+  <h1> Welcome to my testing site zallit.dk/code</h1> <!-- The headline for the index page -->
 
   <nav>
       <?php

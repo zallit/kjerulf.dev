@@ -21,7 +21,18 @@
           ?>
     </nav>
 
+    <h2>13-02-18</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3><ul>
+            <li>Changed URL to zallit.dk/code</li><br>
 
+          </ul></h3>
+        </td>
+      </tr>
+    </table>
+    
     <h2>17-10-16</h2>
     <table style="border: 2px solid white">
       <tr>
