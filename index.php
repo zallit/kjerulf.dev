@@ -7,7 +7,7 @@
   </head>
 <body> <!-- The body text of the page and me testing verious things -->
   <h1> Welcome to my testing site zallit.dk/code</h1> <!-- The headline for the index page -->
-
+This is a test
   <nav>
       <?php
         $TITLE = "Code.zallit.dk index";
