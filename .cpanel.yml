@@ -1,5 +1,0 @@
----
-deployment:
- tasks:
- - export DEPLOYPATH=/home/spises/zallit.dk/code/
- - /bin/cp * $DEPLOYPATH
