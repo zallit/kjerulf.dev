@@ -20,7 +20,17 @@
             include "template.html";
           ?>
     </nav>
+    <h2>24-02-19</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3><ul>
+            <li>Removed the broken form on the index page </li><br>
 
+          </ul></h3>
+        </td>
+      </tr>
+    </table>
     <h2>13-02-18</h2>
     <table style="border: 2px solid white">
       <tr>
@@ -32,7 +42,7 @@
         </td>
       </tr>
     </table>
-    
+
     <h2>17-10-16</h2>
     <table style="border: 2px solid white">
       <tr>
