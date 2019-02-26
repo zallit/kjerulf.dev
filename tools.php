@@ -21,14 +21,14 @@
   </nav>
 
   <h2>Editor</h2>
-    <h4> Github´s ATOM <a href=www.atom.io>www.atom.io</a>   </h4> 
-      <h5>Plugins</h5>
+    <h4> Github´s ATOM <a href=www.atom.io>www.atom.io</a> with the following plugins <br> </h4>
+    <h5><li>emmet <a href="https://atom.io/packages/emmet">  </li>
+  <li>git-plus https://github.com/akonwi/git-plus</li>
+  <li>remote-FTP https://github.com/icetee/remote-ftp </li> </h5>
+  <br>
 
-
-
-
-GIT <br>
+<h2>Code storage</h2> <br>
   Github <br>
-
+  AZE webhosting <a href=https://my.azehosting.net/aff.php?aff=286>www.aze-hosting.dk
 
 </body>
