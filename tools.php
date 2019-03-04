@@ -19,12 +19,12 @@
           include "template.html";
         ?>
   </nav> -->
-***stylesheet temporary off due to a bug***
+***stylesheet and menu temporary off due to a bug***
 <h1> <u>Editor</u></h1>
 <h2> <a href=www.atom.io>Github´s ATOM Editor </a> with the following plugins: </h2>
 <h3> <ul style="list-style-type:disc;"> <li> <a href=https://atom.io/packages/emmet>Emmet</a>   </li>
 <li> <a href=https://github.com/akonwi/git-plus>git-plus </a>  </li>
-<li> <a href=https://github.com/icetee/remote-ftp>remote-FTP</a>  </li>  </ul></h3> 
+<li> <a href=https://github.com/icetee/remote-ftp>remote-FTP</a>  </li>  </ul><h3>
 
 <h1> <u>Code storage</u></h1>
 <h2> <a href=https://github.com/zallit/Zallit.dk-code</a> Github  <br>
