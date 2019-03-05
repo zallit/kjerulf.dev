@@ -27,7 +27,7 @@
 <li> <a href=https://github.com/icetee/remote-ftp>remote-FTP</a>  </li>  </ul><h3>
 
 <h1> <u>Code storage</u></h1>
-<h2> <a href=https://github.com/zallit/Zallit.dk-code>Github </a> <br>
+<h2> <a href=https://github.com/zallit/kjerulf.dev>Github </a> <br>
 <a href=https://my.azehosting.net/aff.php?aff=286> Webserver </h2>
 
 </body>
