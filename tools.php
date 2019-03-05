@@ -22,7 +22,7 @@
 
 <h1> <u>Editor:</u></h1>
 <h2> <a href=www.atom.io>Github´s ATOM Editor </a> with the following plugins: </h2>
-<ul>
+
   <h3> <a href=https://atom.io/packages/emmet> Emmet</a> <br>
   <a href=https://github.com/akonwi/git-plus>git-plus </a> <br>
   <a href=https://github.com/icetee/remote-ftp>remote-FTP</a> </h3>
@@ -30,5 +30,13 @@
 <h1> <u>Code storage:</u></h1>
 <h2> <a href=https://github.com/zallit/kjerulf.dev>Github </a> <br>
 <a href=https://my.azehosting.net/aff.php?aff=286>Webserver provider </a> </h2>
+<h1>take 2</h1>
+
+<ul>
+  <li><a href=https://atom.io/packages/emmet> Emmet</a> <br>
+  <a href=https://github.com/akonwi/git-plus>git-plus </a> <br>
+  <a href=https://github.com/icetee/remote-ftp>remote-FTP</a></li>
+</ul>
+
 
 </body>
