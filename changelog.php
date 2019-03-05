@@ -26,7 +26,7 @@
         <td>
           <h3><ul>
             <li>Migrated to the kjerulf.dev domain </li><br>
-
+            <li>Updated the tools page</li>
           </ul></h3>
         </td>
       </tr>
