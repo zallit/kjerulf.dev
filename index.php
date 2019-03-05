@@ -3,14 +3,14 @@
   <head>
     <link href="style.css" rel="stylesheet" type="text/css">  <!-- Tell the page to use style.css as a stylesheet and defines how the text and background looks-->
     <meta charset="utf-8"> <!-- Defines what kind of character set is in use -->
-  <title>Zallit´s testing site</title> <!-- The page title showing in the browser window -->
+  <title>Andreas Kjerulf´s testing site</title> <!-- The page title showing in the browser window -->
   </head>
 <body> <!-- The body text of the page and me testing verious things -->
-  <h1> Welcome to my testing site zallit.dk/code</h1> <!-- The headline for the index page -->
+  <h1> Welcome to my testing site kjerulf.dev</h1> <!-- The headline for the index page -->
 
   <nav>
       <?php
-        $TITLE = "Code.zallit.dk index";
+        $TITLE = "kjerulf.dev index";
         ob_start();
       ?>
 

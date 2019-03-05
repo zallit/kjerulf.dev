@@ -20,6 +20,18 @@
             include "template.html";
           ?>
     </nav>
+    <h2>05-03-19</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3><ul>
+            <li>Migrated to the kjerulf.dev domain </li><br>
+
+          </ul></h3>
+        </td>
+      </tr>
+    </table>
+
     <h2>24-02-19</h2>
     <table style="border: 2px solid white">
       <tr>
