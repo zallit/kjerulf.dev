@@ -20,6 +20,18 @@
             include "template.html";
           ?>
     </nav>
+    <h2>12-03-19</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3><ul>
+            <li>Change the default font on the entire page to "Georgia" via the style.css </li><br>
+            <li>CSS cleaning</li>
+          </ul></h3>
+        </td>
+      </tr>
+    </table>
+
     <h2>05-03-19</h2>
     <table style="border: 2px solid white">
       <tr>
