@@ -26,7 +26,8 @@
         <td>
           <h3><ul>
             <li>Change the default font on the entire page to "Georgia" via the style.css </li><br>
-            <li>CSS cleaning</li>
+            <li>CSS cleaning</li> <br>
+            <li>Changed the notice text on frontpage back to red</li>
           </ul></h3>
         </td>
       </tr>
