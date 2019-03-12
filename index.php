@@ -20,7 +20,7 @@
         include "template.html";
       ?>
   </nav>
-  <h2>Please note that this is where I test my code so dont expect anything to work at all !!! </h2>
+  <h2 style="color:red;">Please note that this is where I test my code so dont expect anything to work at all !!! </h2>
   <br> <!-- Break Line (new line) -->
   <table style="border: 1px solid white">
   <tr>
