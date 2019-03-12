@@ -1,45 +1,35 @@
-BODY { COLOR: #FFFFFF;
+BODY {
+COLOR: #FFFFFF;
 background-color:#282c34;
 margin-left:2px;
 padding-left:10px;
-font-family:georgia ;
+font-family:georgia;}
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-        background-color: #282c34;
+    background-color: #282c34;
     }
 
-    li {
-        float: left;
-    }
+    li {float: left;}
 
     li a {
         display: block;
         color: white;
         text-align: center;
         padding: 14px 16px;
-        text-decoration: none;
-    }
+        text-decoration: none;}
 
     /* unvisited link */
-  a:link {
-      color: #d9ff19;
-  }
+  a:link {color: #d9ff19;}
 
   /* visited link */
-  a:visited {
-      color: #ffb000;
-  }
+  a:visited { color: #ffb000;}
 
   /* mouse over link */
-  a:hover {
-      color: #d9ff19;
-  }
+  a:hover {color: #d9ff19;}
 
   /* selected link */
-  a:active {
-      color: #ffffff;
-}
+  a:active {color: #ffffff;}
