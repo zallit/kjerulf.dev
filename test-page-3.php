@@ -27,17 +27,25 @@ nav ul ul li:hover{ background-color: #383332; }
 
   </font>
 
-  <ul>
-      <li><a href="#">Home</a></li>
+  <ul> <!-- this is the start of the menu -->
+      <li><a href="#">Home</a></li> <!-- this link is  by it self -->
       <li><a href="#">Changelog</a></li>
-      <li><a href="#">Dropdown</a>
+      <li><a href="#">Dropdown</a> <!-- This is the start of Dropdown -->
       <ul>
-        <li><a href="test-page-1.php">Test page 1 (respnsesive menu and old site)</a></li>
-        <li><a href="test-page-2.php">Test page 2</a></li>
-        <li><a href="test-page-3.php">Test page 3</a></li>
+        <li><a href="test-page-1.php">Test page 1 (respnsesive menu and old site)</a></li> <!-- this link is in Dropdown menu -->
+        <li><a href="test-page-2.php">Test page 2</a></li> <!-- this link is in Dropdown menu -->
+        <li><a href="test-page-3.php">Test page 3</a></li> <!-- this link is in Dropdown menu -->
       </ul>
+</li> <!-- This is the end of Dropdown -->
+        <li><a href="#">Andreas</a>
+        <ul>
+          <li><a href="www.dsin.dk">Kjerulf</a></li> <!-- this link is under Andreas -->
+          <ul>
+            <li><a href="www.dsin.dk">Kjerulf</a></li>
+          </ul>
+        </ul>
       </li>
-      </ul>
+    </ul> <!-- this is the end of the menu -->
 </nav>
 
 <body>

@@ -20,6 +20,17 @@
             include "template.html";
           ?>
     </nav>
+    <h2>19-03-19</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3><ul>
+            Testing a dropdown menu on <a href="test-page-3">test page 3</a><br>                  
+          </ul></h3>
+        </td>
+      </tr>
+    </table>
+
     <h2>12-03-19</h2>
     <table style="border: 2px solid white">
       <tr>

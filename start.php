@@ -1,17 +1,17 @@
-this is my own personal not so secrect startpage with links to a lot of stuff
+
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="style.css" rel="stylesheet" type="text/css">  <!-- Tell the page to use style.css as a stylesheet and defines how the text and background looks-->
-    <meta charset="utf-8"> <!-- Defines what kind of character set is in use -->
-  <title>Andreas Kjerulf´s testing site</title> <!-- The page title showing in the browser window -->
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <meta charset="utf-8">
+  <title>startpage</title>
   </head>
-<body> <!-- The body text of the page and me testing verious things -->
-  <h1> Welcome to my testing site kjerulf.dev</h1> <!-- The headline for the index page -->
+<body>
+  <h1> My own personal not so secrect startpage with links to a lot of stuff</h1>
 
   <nav>
       <?php
-        $TITLE = "kjerulf.dev index";
+        $TITLE = "kjerulf.dev startpage";
         ob_start();
       ?>
 
@@ -21,3 +21,5 @@ this is my own personal not so secrect startpage with links to a lot of stuff
         include "template.html";
       ?>
   </nav>
+
+</body>
