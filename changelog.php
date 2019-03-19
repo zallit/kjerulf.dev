@@ -24,9 +24,11 @@
     <table style="border: 2px solid white">
       <tr>
         <td>
-          <h3><ul>
-            Testing a dropdown menu on <a href="test-page-3">test page 3</a><br>                  
-          </ul></h3>
+          <h3>
+          <ul>Testing a dropdown menu on <a href="test-page-3">test page 3</a><br> </ul>
+            <ul>Updated the <a href="tools">tools page </a> <br></ul>
+            <ul>Added <a href="test-page-4">test page 4</ul>                
+          </h3>
         </td>
       </tr>
     </table>

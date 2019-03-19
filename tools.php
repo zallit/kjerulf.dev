@@ -25,7 +25,9 @@
 
   <h3> <a href=https://atom.io/packages/emmet> Emmet</a> <br>
   <a href=https://github.com/akonwi/git-plus>git-plus </a> <br>
-  <a href=https://github.com/icetee/remote-ftp>remote-FTP</a> </h3>
+  <a href=https://github.com/icetee/remote-ftp>remote-FTP</a> <br>
+  <a href=https://atom.io/packages/pigments>pigments</a> <br>
+ </h3>
 <br>
 <h1> <u>Code storage:</u></h1>
 <h2> <a href=https://github.com/zallit/kjerulf.dev>Github </a> <br>

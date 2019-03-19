@@ -40,9 +40,7 @@ nav ul ul li:hover{ background-color: #383332; }
         <li><a href="#">Andreas</a>
         <ul>
           <li><a href="www.dsin.dk">Kjerulf</a></li> <!-- this link is under Andreas -->
-          <ul>
-            <li><a href="www.dsin.dk">Kjerulf</a></li>
-          </ul>
+          
         </ul>
       </li>
     </ul> <!-- this is the end of the menu -->
