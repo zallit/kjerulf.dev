@@ -92,7 +92,7 @@ display:block
               <li><a href="#">Sub Deep 1</a></li>
               <li><a href="#">Sub Deep 2</a></li>
               <li><a href="#">Sub Deep 3</a></li>
-                <li><a href="#">Sub Deep 4</a></li>
+              <li><a href="#">Sub Deep 4</a></li>
             </ul>
           </li>
           <li><a href="#">Deep Menu 2</a></li>
@@ -105,10 +105,11 @@ display:block
   <ul>
     <li><a href="#">Kjerulf</a>
     <ul>
-      <li><a href="#">is</a> <ul>
-        <li><a href="#">my</a> <ul>
-        <li>
-         <a href="#">name</a>
+      <li><a href="#">is</a>
+        <ul>
+        <li><a href="#">my</a>
+          <ul>
+        <li><a href="#">name</a>
         </ul>
 
       </ul> </li>
