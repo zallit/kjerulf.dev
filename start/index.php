@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="../style.css" rel="stylesheet" type="text/css">
     <meta charset="utf-8">
   <title>startpage</title>
   </head>
@@ -18,8 +18,14 @@
       <?php
 
         $CONTENT = ob_get_clean();
-        include "template.html";
+        include('../template.html');;
       ?>
   </nav>
+  RSS reader https://kjerulf.dev/trss/
 
+  URL shortner https://kjerulf.dev/l/
+
+  Black desert database
+
+  Aze admin panel
 </body>
