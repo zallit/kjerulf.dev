@@ -21,12 +21,22 @@
         include('../template.html');;
       ?>
   </nav>
-  
-  RSS reader https://kjerulf.dev/trss/
+<br>
+<a href="https://my.azehosting.net/" > Aze admin panel </a>
+<br><br>
+<a href="https://bddatabase.net"> Black desert database </a>
+<br> <br>
+<a href="https://bdoplanner.com/"> BDO gear planner </a>
+<br> <br>
+<a href="https://bdoplanner.com/AzwellCollegeScale"> BDO my Shai </a>
+<br> <br>
+<a href="https://grumpygreen.cricket/bdo-failstack-chart/BDO"> Failstack guide </a>
+<br><br>
+<a href="https://kjerulf.dev/trss/"> RSS reader </a>
+<br><br>
+<a href="https://kjerulf.dev/l/"> URL shortner </a>
+<br><br>
+<a href="https://zallit.dk/smf" >So much fun forum </a>
 
-  URL shortner https://kjerulf.dev/l/
 
-  Black desert database
-
-  Aze admin panel
 </body>
