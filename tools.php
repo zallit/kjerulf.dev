@@ -24,8 +24,8 @@
 <h2> <a href=www.atom.io>Github´s ATOM Editor </a> with the following plugins: </h2>
 
   <h3> <a href=https://atom.io/packages/emmet> Emmet</a> <br>
-  <a href=https://github.com/akonwi/git-plus>git-plus </a> <br>
-  <a href=https://github.com/icetee/remote-ftp>remote-FTP</a> <br>
+  <a href=https://atom.io/packages/git-plus>git-plus </a> <br>
+  <a href=https://atom.io/packages/remote-ftp>remote-FTP</a> <br>
   <a href=https://atom.io/packages/pigments>pigments</a> <br>
  </h3>
 <br>

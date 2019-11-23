@@ -20,6 +20,18 @@
             include "template.html";
           ?>
     </nav>
+
+    <h2>23-11-19</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3>
+          <ul>Updated the links page so all links points to <a href="atom.io">atom.io</a><br> </ul>                        
+          </h3>
+        </td>
+      </tr>
+    </table>
+
     <h2>19-03-19</h2>
     <table style="border: 2px solid white">
       <tr>
@@ -27,7 +39,7 @@
           <h3>
           <ul>Testing a dropdown menu on <a href="test-page-3">test page 3</a><br> </ul>
             <ul>Updated the <a href="tools">tools page </a> <br></ul>
-            <ul>Added <a href="test-page-4">test page 4</ul>                
+            <ul>Added <a href="test-page-4">test page 4</ul>
           </h3>
         </td>
       </tr>
