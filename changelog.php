@@ -21,12 +21,23 @@
           ?>
     </nav>
 
+    <h2>26-11-19</h2>
+    <table style="border: 2px solid white">
+      <tr>
+        <td>
+          <h3>
+          <ul>Updated forum link on the startpage<br> </ul>                        
+          </h3>
+        </td>
+      </tr>
+    </table>
+
     <h2>23-11-19</h2>
     <table style="border: 2px solid white">
       <tr>
         <td>
           <h3>
-          <ul>Updated the links page so all links points to <a href="atom.io">atom.io</a><br> </ul>                        
+          <ul>Updated the links page so all atom plugin links points to <a href="atom.io">atom.io</a><br> </ul>
           </h3>
         </td>
       </tr>
