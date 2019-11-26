@@ -36,7 +36,7 @@
 <br><br>
 <a href="https://kjerulf.dev/l/" target="_blank"> URL shortner </a>
 <br><br>
-<a href="https://zallit.dk/smf" target="_blank"> So much fun forum </a>
+<a href="https://zallit.dk/mybb" target="_blank"> So much fun forum </a>
 
 
 </body>
