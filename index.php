@@ -6,7 +6,7 @@
   <title>Andreas Kjerulf´s testing site</title> <!-- The page title showing in the browser window -->
   </head>
 <body> <!-- The body text of the page and me testing verious things -->
-  <h1> Welcome to my testing site kjerulf.dev</h1> <!-- The headline for the index page -->
+  <h1> Welcome to my testing website kjerulf.dev</h1> <!-- The headline for the index page -->
 
   <nav>
       <?php
