@@ -25,7 +25,7 @@
   <table style="border: 1px solid white">
   <tr>
   <td>
-This content will be surrounded by a 1 pixel wide white solid line.
+This content will be surrounded by a 1 pixel wide white solid line
   </td>
   </tr>
   </table>
