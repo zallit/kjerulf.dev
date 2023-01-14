@@ -32,7 +32,7 @@
 <h1> <u>Code storage:</u></h1>
 <h2> <a href=https://github.com/zallit/kjerulf.dev>Github </a> <br>
 <a href=https://my.azehosting.net/aff.php?aff=286>Webserver provider </a> </h2>
-<h1>take 2</h1>
+<h1>Take 2</h1>
 
 <ul>
   <li><a href=https://atom.io/packages/emmet> Emmet</a> <br>
