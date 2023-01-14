@@ -3,7 +3,7 @@
   <head>
   <link href="style.css" rel="stylesheet" type="text/css">
     <meta charset="utf-8">
-  <title>Tools used to code Zallit´s testing site </title>
+  <title>Tools used to code Zallit´s testing site. </title>
   </head>
 <body>
       <h1 id="top">Tools used to code Zallit´s testing site</h1>
